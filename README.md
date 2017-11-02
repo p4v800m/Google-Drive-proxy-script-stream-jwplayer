@@ -3,24 +3,22 @@
 Ubuntu 16.04.3 LTS 
 
 # Tutorial
-
-Apt-get update && apt-get upgrade<br>
-
-apt-get -y install apache2<br>
-
-apt-get -y install php7.0 libapache2-mod-php7.0<br>
-
-apt-get -y install php7.0-mysql php7.0-curl php7.0-gd php7.0-intl php-pear php-imagick php7.0-imap php7.0-mcrypt php-memcache  php7.0-pspell php7.0-recode php7.0-sqlite3 php7.0-tidy php7.0-xmlrpc php7.0-xsl php7.0-mbstring php-gettext php7.0-opcache php-apcu <br>
-
-a2enmod rewrite <br>
-
-systemctl restart apache2 <br>
+```
+Apt-get update && apt-get upgrade
+apt-get -y install apache2
+apt-get -y install php7.0 libapache2-mod-php7.0
+apt-get -y install php7.0-mysql php7.0-curl php7.0-gd php7.0-intl php-pear php-imagick php7.0-imap php7.0-mcrypt php-memcache  php7.0-pspell php7.0-recode php7.0-sqlite3 php7.0-tidy php7.0-xmlrpc php7.0-xsl php7.0-mbstring php-gettext php7.0-opcache php-apcu
+a2enmod rewrite
+systemctl restart apache2
+```
 
 In the file Servers.php you can add different servers to do load balancing.
 
-"  $proxies[] = "https://filmesx.co/drive.php?id=";  " <br>
-"  $proxies[] = "https://dooplay.co/drive.php?id=";  " <br>
-"  $proxies[] = "https://newdoa.co/drive.php?id=";  " <br>
+``` 
+$proxies[] = "https://filmesx.co/drive.php?id=";  
+$proxies[] = "https://dooplay.co/drive.php?id=";  
+$proxies[] = "https://newdoma.co/drive.php?id=";  
+```
 
 # Encryption
 
@@ -61,5 +59,5 @@ I - for making the code available.
 
 # Installation service
 
-I charge a $ 5 fee for installing the script .
-send a paypal payment to ruan_cabral7@hotmail.com followed by login and password by email to start the installation.
+I charge a $ 5 fee for installing the script with ssl on domain, apache or nginx.
+send a paypal payment to ruan_cabral7@hotmail.com followed by login and password to install quickly as soon as payment is made.
