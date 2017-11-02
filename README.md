@@ -43,6 +43,8 @@ $inboxf = $url; // your variable
     $urlen = $encrypted_txt;
     
 // filmesx.co - ruan_cabral7@hotmail.com ?>
+
+<iframe style="border:0px #FFFFFF none;" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="480" width="100%" src="filmesx.co/embed.php?id=<?php echo $urlen; ?>" sandbox="allow-same-origin allow-scripts" allowfullscreen></iframe>
 ```
 
 Obs 1: If you do not want encryption remove the first 19 lines of the file embed.php <br>
