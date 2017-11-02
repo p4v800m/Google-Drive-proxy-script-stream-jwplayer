@@ -54,11 +54,11 @@ http://domain.com/embed.php?id=MkF3UJlR1REVA <br>
 No encryped  <br>
 http://domain.com/embed.php?id=GOOGLEDRIVEID <br>
 
-# Creditos
+# Credits
 
 I - for making the code available.
 
-# Serviço de instalação
+# Installation service
 
 I charge a $ 5 fee for installing the script .
 send a paypal payment to ruan_cabral7@hotmail.com followed by login and password by email to start the installation.
