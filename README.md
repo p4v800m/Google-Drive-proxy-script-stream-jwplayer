@@ -64,7 +64,7 @@ I - for making the code available.
 I charge a $ 5 fee for installing the script with ssl on domain, apache or nginx.
 send a paypal payment to ruan_cabral7@hotmail.com followed by login and password to install quickly as soon as payment is made.
 
-# DEMO
+# Demo
 ```
 https://filmesx.co/wp-content/play/embed.php?id=dVN5M1o2ZGlHUXVrVjcyQ2o1M1VGR3JHUXlUKzQyU1VpU3p4UDYyOXh3UGVoVnlPVWk1NVl1blpxb2k2bnYvMFB5T2tsaEUxWGl1VlFWTG8yQ3FoZDF4cTdBVU1QbXhVSEZoMFFpMkF3SExnbkpMQUJlR1REVCtIZ3k2RTFxQmc=
 ```
