@@ -26,7 +26,7 @@ In the file Servers.php you can add different servers to do load balancing.
 
 $url = put your variable or your google drive url.
 
-// <?php //filmesx.co - ruan_cabral7@hotmail.com
+<?php //filmesx.co - ruan_cabral7@hotmail.com
 
 $inboxf = $url; // your variable
 
@@ -44,7 +44,7 @@ $inboxf = $url; // your variable
     $encrypted_txt = $output;
     $urlen = $encrypted_txt;
 
-//filmesx.co - ruan_cabral7@hotmail.com ?> //
+//filmesx.co - ruan_cabral7@hotmail.com ?> 
 
 Obs 1: If you do not want encryption remove the first 19 lines of the file embed.php <br>
 Obs 2: Without encryption you can simply paste the google id at the end of embed.php?id= <br>
