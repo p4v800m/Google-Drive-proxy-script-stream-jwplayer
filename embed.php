@@ -118,9 +118,6 @@ $enc = base64_encode(openssl_encrypt($drvid,$encrypt_method, $key, 0, $iv));
 <head>
 <title></title>
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-<meta name="referrer" content="none">
-<meta name="referrer" content="no-referrer"/>
-<meta name="referrer" content="never"/>   
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <link href="/jwplayer/skins/prime.min.css" rel="stylesheet" type="text/css" />
 <link href="/jwplayer/jw-logo/jw-logo-bar.css" rel="stylesheet" type="text/css" />
