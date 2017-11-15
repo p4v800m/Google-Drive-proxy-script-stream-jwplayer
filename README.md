@@ -66,5 +66,8 @@ send a paypal payment to ruan_cabral7@hotmail.com followed by login and password
 
 # Demo
 ```
-https://filmesx.co/wp-content/play/embed.php?id=dVN5M1o2ZGlHUXVrVjcyQ2o1M1VGR3JHUXlUKzQyU1VpU3p4UDYyOXh3UGVoVnlPVWk1NVl1blpxb2k2bnYvMFB5T2tsaEUxWGl1VlFWTG8yQ3FoZDF4cTdBVU1QbXhVSEZoMFFpMkF3SExnbkpMQUJlR1REVCtIZ3k2RTFxQmc=
+https://filmesx.co/wp-content/play/embed.php?gd=VHhtbUVGVFRyVG5vbkZtUm5TeSt3bklYQUpmbFp0ajFCZy94NDEyOWJUaW1TRVNaSUdaN3FlM095K050TWlrVw==&legenda=23708&id=https://image.tmdb.org/t/p/w1000/djZ91wFhH07ufDwfaEo6c4tm7x.jpg
 ```
+WORKING 100%, SUB + PREVIEW ONLY FOR PREMIUM!
+$20 TO INSTALL Dooplay theme mod, auto check if are subs on folder and auto put preview on videos.
+PAYPAL: ruan_cabral7@hotmail.com
