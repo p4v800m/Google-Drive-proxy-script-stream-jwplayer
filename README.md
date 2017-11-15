@@ -68,6 +68,12 @@ send a paypal payment to ruan_cabral7@hotmail.com followed by login and password
 ```
 https://filmesx.co/wp-content/play/embed.php?gd=VHhtbUVGVFRyVG5vbkZtUm5TeSt3bklYQUpmbFp0ajFCZy94NDEyOWJUaW1TRVNaSUdaN3FlM095K050TWlrVw==&legenda=23708&id=https://image.tmdb.org/t/p/w1000/djZ91wFhH07ufDwfaEo6c4tm7x.jpg
 ```
-WORKING 100%, SUB + PREVIEW ONLY FOR PREMIUM!
-$20 TO INSTALL Dooplay theme mod, auto check if are subs on folder and auto put preview on videos.
-PAYPAL: ruan_cabral7@hotmail.com
+Eng
+AUTO CHECH FOR SUB (CAPTIONS) + PREVIEW IMAGES + DOOPLAY THEME 2.3.8 - ONLY FOR PREMIUM!
+DEMO: Filmesx.co
+$20 only paypal.
+
+Pt-br
+SE HOUVER LEGENDAS NA PASTA ATIVA AUTOMATICAMENTE + IMAGEM DE CAPA NO PLAYER AUTOMATICA NO THEMA DOOPLAY + THEMA DOOPLAY 2.3.8
+DEMONSTRAÇÃO: Filmesx.co
+R$ 70.
