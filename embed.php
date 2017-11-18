@@ -1,23 +1,4 @@
 <?php
-//filmesx.co - ruan_cabral7@hotmail.com
-
-$inboxf = $_GET['id'];
-
-    $plain_txt = base64_decode($inboxf);
-    $decrypt_method = "AES-256-CBC";
-    $secret_key = 'PWaanA*()!#EGyKaaZa';
-    $secret_iv = 'PWAsrqWUN*()!#RETyAAgaa';
-    // hash
-    $key = hash('sha256', $secret_key); 
-    // iv - decrypt method AES-256-CBC expects 16 bytes - else you will get a warning
-    $iv = substr(hash('sha256', $secret_iv), 0, 16);
-    $output = openssl_decrypt($plain_txt, $decrypt_method, $key, 0, $iv);
-    $output = base64_decode($output);
-    $urlen = $output;
-	
-//filmesx.co - ruan_cabral7@hotmail.com
-?>
-<?php
 header('Cache-Control: no-cache, no-store, must-revalidate'); // HTTP 1.1.
 header('Pragma: no-cache'); // HTTP 1.0.
 header('Expires: 0'); // Proxies.
