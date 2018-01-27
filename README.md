@@ -27,4 +27,6 @@ Demo: https://Filmesx.co
 
 I do not offer support for non-users, I do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.<br>
 
-# I am not givin suport for anyone, i already give you a source code to you walk with you legs, more than that i will charge per aditionaly services.
+# REMEBER:
+
+I do not give support to anyone. I already gave the source code of the script for you to walk with your legs, more than that I will charge
