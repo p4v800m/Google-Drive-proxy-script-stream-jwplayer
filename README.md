@@ -4,9 +4,9 @@ Now with JWPlayer 8
 
 Demo: https://goo.gl/oUCac5
 
-Send payment to paypal: ruan_cabral7@hotmail.com
+Send payment to paypal: ruan_cabral7@hotmail.com<br>
 
-I do not offer support for non-users, we do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.
+I do not offer support for non-users, we do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.<br>
 
 * Only script
 
@@ -19,10 +19,10 @@ Demo: https://Filmesx.co
  
 # Requirements
 
-1 - SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)
-2 - VPS/DEDICATED CLEAN WiTH ROOT PASSWD 
-3 - SUBDOMAIN or DOMAIN pointed to VPS 
-
-* Script + Theme + Customs
+1 - SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)<br>
+2 - VPS/DEDICATED CLEAN WiTH ROOT PASSWD <br>
+3 - SUBDOMAIN or DOMAIN pointed to VPS <br>
+<br>
+* Script + Theme + Customs<br>
 
 # the code is free more than that I can not offer.
