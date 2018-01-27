@@ -6,8 +6,6 @@ Demo: https://goo.gl/oUCac5
 
 Send payment to paypal: ruan_cabral7@hotmail.com<br>
 
-I do not offer support for non-users, we do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.<br>
-
 * Only script
 
 # Installation service PREMIUM $30
@@ -26,3 +24,18 @@ Demo: https://Filmesx.co
 * Script + Theme + Customs<br>
 
 # the code is free more than that I can not offer.
+
+I do not offer support for non-users, I do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.<br>
+
+
+Other scripts:
+
+SOOM
+
+Google Drive Directlink video
+OK.RU
+Google Plus
+Mediafire
+OpenLoad
+
+Wait we are working in that now!
