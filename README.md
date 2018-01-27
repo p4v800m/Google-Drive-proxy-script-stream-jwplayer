@@ -26,3 +26,5 @@ Demo: https://Filmesx.co
 # the code is free more than that I can not offer.
 
 I do not offer support for non-users, I do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.<br>
+
+# I am not givin suport for anyone, i already give you a source code to you walk with you legs, more than that i will charge per aditionaly services.
