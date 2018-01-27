@@ -20,8 +20,8 @@ Demo: https://Filmesx.co
 # Requirements
 
 1 - SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)<br>
-2 - VPS/DEDICATED CLEAN WiTH ROOT PASSWD <br>
-3 - SUBDOMAIN or DOMAIN pointed to VPS <br>
+2 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
+3 - SUBDOMAIN or DOMAIN pointed ip of VPS <br>
 <br>
 * Script + Theme + Customs<br>
 
