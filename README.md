@@ -15,8 +15,8 @@ Send payment to paypal: ruan_cabral7@hotmail.com<br>
 
 Dooplay theme + AUTO preview on player + AUTO add subtitles (just upload to specific folder) + Script Google Proxy custom + Videos MP4 Customs + Youtube on JWplayer
 
-Demo: https://Filmesx.co
- #1.2 Requirements
+Demo: https://Filmesx.co <br>
+#1.2 Requirements
 
 1 - SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)<br>
 2 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
