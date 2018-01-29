@@ -18,6 +18,7 @@ Demo: https://Filmesx.co <br>
 
 1 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
 2 - SUBDOMAIN or DOMAIN pointed to ip of VPS <br>
+3 - Ubuntu 14.04, 16.04, Debian 7 and 8
 <br>
 
 
