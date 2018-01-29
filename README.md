@@ -9,19 +9,22 @@ Demo: https://goo.gl/oUCac5
 Send payment to paypal: ruan_cabral7@hotmail.com<br>
 
 
-#1.1 Installation service PREMIUM $35
+#Installation service PREMIUM $35
 
 * Script + Theme Customs<br>
 
 Dooplay theme + AUTO preview on player + AUTO add subtitles (just upload to specific folder) + Script Google Proxy custom + Videos MP4 Customs + Youtube on JWplayer
 
 Demo: https://Filmesx.co <br>
-#1.2 Requirements
 
-1 - SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)<br>
-2 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
-3 - SUBDOMAIN or DOMAIN pointed to ip of VPS <br>
+#Requirements (Only for premium service)
+
+1 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
+2 - SUBDOMAIN or DOMAIN pointed to ip of VPS <br>
 <br>
+
+
+SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)<br>
 
 # the code is free more than that I can not offer.
 
