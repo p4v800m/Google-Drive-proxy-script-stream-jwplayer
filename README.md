@@ -19,7 +19,7 @@ Demo: https://Filmesx.co
 
 1 - SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)<br>
 2 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
-3 - SUBDOMAIN or DOMAIN pointed ip of VPS <br>
+3 - SUBDOMAIN or DOMAIN pointed to ip of VPS <br>
 <br>
 * Script + Theme + Customs<br>
 
@@ -27,6 +27,10 @@ Demo: https://Filmesx.co
 
 I do not offer support for non-users, I do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.<br>
 
-# REMEBER:
+# REMEBER!
 
-I do not give support to anyone. I already gave the source code of the script for you to walk with your legs, more than that I will charge
+I do not give support to anyone. I already gave the source code of the script for you to walk with your legs, more than that I will charge.
+
+
+
+
