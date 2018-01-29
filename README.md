@@ -9,7 +9,7 @@ Demo: https://goo.gl/oUCac5
 Send payment to paypal: ruan_cabral7@hotmail.com<br>
 
 
-#Installation service PREMIUM $35
+# Installation service PREMIUM $35
 
 * Script + Theme Customs<br>
 
@@ -17,7 +17,7 @@ Dooplay theme + AUTO preview on player + AUTO add subtitles (just upload to spec
 
 Demo: https://Filmesx.co <br>
 
-#Requirements (Only for premium service)
+# Requirements (Only for premium service)
 
 1 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
 2 - SUBDOMAIN or DOMAIN pointed to ip of VPS <br>
