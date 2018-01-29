@@ -6,9 +6,6 @@ Now with JWPlayer 8
 
 Demo: https://goo.gl/oUCac5
 
-Send payment to paypal: ruan_cabral7@hotmail.com<br>
-
-
 # Installation service PREMIUM $35
 
 * Script + Theme Customs<br>
