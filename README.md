@@ -24,7 +24,10 @@ Demo: https://Filmesx.co <br>
 <br>
 
 
-SEND MONEY TO ruan_cabral7@hotmail.com (PAYPAL)<br>
+# Payment
+
+Sendo money to paypal on email: ruan_cabral7@hotmail.com<br>
+Fast delivery wheen you do a fast payment.<br>
 
 # the code is free more than that I can not offer.
 
