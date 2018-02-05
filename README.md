@@ -21,6 +21,8 @@ Demo: https://goo.gl/oUCac5
 - MP4 Multiqualitys with shortecode, example: [v f="1080p.mp4" hd="720p.mp4" sd="480p.mp4" sub="123.vtt"]
 - Encryptation to hide urls of Google Drive, Photos and etc...
 
+Demo: https://Filmesx.co
+
 # Requirements to script service install 
 
 1 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
