@@ -18,7 +18,7 @@ Demo: https://goo.gl/oUCac5
 - Updates, news serves will add soon!
 - iframe youtube with ID
 - Semi-AUTO add subtitles on JWPlayers (Upload sub to specific folder and just that!)
-- MP4 Multiqualis on short code example: [v f="1080p.mp4" hd="720p.mp4" sd="480p.mp4"]
+- MP4 Multiqualitys with shortecode example: [v f="1080p.mp4" hd="720p.mp4" sd="480p.mp4" sub="123.vtt"]
 
 # Requirements to script service install 
 
