@@ -6,19 +6,26 @@ Now with JWPlayer 8
 
 Demo: https://goo.gl/oUCac5
 
-# Installation service PREMIUM $35
+# Installation service + Dooplay custom theme $40
 
 * Script + Theme Customs<br>
 
-Dooplay theme + AUTO preview on player + AUTO add subtitles (just upload to specific folder) + Script Google Proxy custom + Videos MP4 Customs + Youtube on JWplayer
+- Proxy script Google Drive JWPlayer 8
+- DirectLink Google Drive JWplayer 8 (NO proxy)
+- Google photos Script JWPlayer 8
+- Youtube JWPlayer 8
+- Auto preview on player
+- Updates, news serves will add soon!
+- iframe youtube with ID
+- Semi-AUTO add subtitles on JWPlayers (Upload sub to specific folder and just that!)
+- MP4 Multiqualis on short code example: [v f="1080p.mp4" hd="720p.mp4" sd="480p.mp4"]
 
-Demo: https://Filmesx.co <br>
-
-# Requirements (Only for premium service)
+# Requirements to script service install 
 
 1 - VPS/DEDICATED CLEAN WITH ROOT PASSWD <br>
 2 - SUBDOMAIN or DOMAIN pointed to ip of VPS <br>
-3 - Ubuntu 14.04, 16.04, Debian 7 and 8
+3 - Ubuntu 16.04
+
 <br>
 
 
@@ -27,14 +34,8 @@ Demo: https://Filmesx.co <br>
 Sendo money to paypal on email: ruan_cabral7@hotmail.com<br>
 Fast delivery wheen you do a fast payment.<br>
 
-# the code is free more than that I can not offer.
+# the code is free!
 
-I do not offer support for non-users, I do not want to be rude but we have other daily tasks and it would be impossible with my little time to offer help to all. help me to help you.<br>
-
-# REMEBER!
-
-I do not give support to anyone. I already gave the source code of the script for you to walk with your legs, more than that I will charge.
-
-
+the code is free but not my time, the code has been offered, support or something more that will be charged, unfortunately has sites that charge more than $ 50 for this script and is here, free! so do not ask me any more, thanks for the understanding of everyone!
 
 
