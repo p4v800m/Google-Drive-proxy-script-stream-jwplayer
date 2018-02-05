@@ -2,7 +2,7 @@
 
 Now with JWPlayer 8
 
-* Only script
+* Google drive proxy script (Only)
 
 Demo: https://goo.gl/oUCac5
 
@@ -19,6 +19,7 @@ Demo: https://goo.gl/oUCac5
 - iframe youtube with ID
 - Semi-AUTO add subtitles on JWPlayers (Upload sub to specific folder and just that!)
 - MP4 Multiqualitys with shortecode, example: [v f="1080p.mp4" hd="720p.mp4" sd="480p.mp4" sub="123.vtt"]
+- Encryptation to hide urls of Google Drive, Photos and etc...
 
 # Requirements to script service install 
 
